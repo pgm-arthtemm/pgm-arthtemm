@@ -16,5 +16,5 @@ I am an ambitious web developer with 2+ years of experience in web design and de
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-arthtemm&show_icons=true&count_private=true&bg_color=000&title_color=fff&text_color=d91717&icon_color=fff&hide_border=true)  
 
 ## Skills
-- __Web development__: HTML, CSS, JavaScript, SASS, Node.js  
+- __Web development__: HTML, CSS, JavaScript, Node.js, React, Svelte 
 - __Web design__: Adobe XD, Illustrator and Photoshop

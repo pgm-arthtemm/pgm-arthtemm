@@ -3,12 +3,12 @@
 I am a student programming at Artevelde University Ghent.  
 I am an ambitious web developer with 2+ years of experience in web design and development who is always looking for new tips and tricks to make a website look awesome.  
   
-[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)] 
-[![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)] 
-[![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)]
-[![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=orange)] 
-[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=informational)] 
-[![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=darkgreen)] 
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=darkgreen)
 
 ### Social
 - [LinkedIn](https://www.linkedin.com/in/arthur-temmerman-3a73681b6/)

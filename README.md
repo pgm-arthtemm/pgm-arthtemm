@@ -1,7 +1,7 @@
 ![banner-image](https://i.ibb.co/Qkq4t7m/banner.png)  
 # Hello! :wave: My name is Arthur Temmerman
 I am a student programming at Artevelde University Ghent.  
-I am an ambitious web developer with 2+ years of experience in web design and development who is always looking for new tips and tricks to make a website look awesome.  
+I am an ambitious web developer with 3+ years of experience in web design and development who is always looking for new tips and tricks to make a website look awesome.  
 [My portfolio website](https://arthurtemmerman.com)
   
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=orange)
